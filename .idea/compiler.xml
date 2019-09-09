@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="DataClean" />
+        <module name="DataCleanScala" />
+        <module name="DataReport" />
+        <module name="DataReportScala" />
       </profile>
     </annotationProcessing>
   </component>
