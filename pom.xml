@@ -20,7 +20,7 @@
         <encoding>UTF-8</encoding>
         <scala.version>2.11.8</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <hadoop.version>2.6.3</hadoop.version>
+        <hadoop.version>2.7.0</hadoop.version>
         <flink.version>1.7.2</flink.version>
     </properties>
     <dependencies>
